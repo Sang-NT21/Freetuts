@@ -1,6 +1,6 @@
 # This is a Blogging Website
 
-Front End: [COCONUC](https://github.com/COCONUC)
+Front End: Me
 
 Back End & DB: [luxNG](https://github.com/luxNG)
 
